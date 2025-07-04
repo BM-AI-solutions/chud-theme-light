@@ -29,7 +29,10 @@
 		"focusBorder": "#bd0000",
 		"menu.border": "#850f0f",
 		"actionBar.toggledBackground": "#00000000",
-		"editorCursor.background": "#ff0000"
+		"editorCursor.background": "#ff0000",
+		"extensionBadge.remoteBackground":"#850f0f",
+		"statusBarItem.remoteBackground": "#850f0f",
+		"statusBarItem.remoteForeground": "#ffffff"
 	},
 	"tokenColors": [
 		{
@@ -92,7 +95,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#9d9b3e"
 			}
 		},
 		{
@@ -113,7 +116,7 @@
 				"support.variable"
 			],
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#fffb00"
 			}
 		},
 		{
@@ -136,7 +139,7 @@
 			],
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
+				"foreground": "#949d3e"
 			}
 		},
 		{
@@ -168,7 +171,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#78278c"
+				"foreground": "#0400ff"
 			}
 		},
 		{
@@ -270,7 +273,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#b90000"
 			}
 		},
 		{
@@ -382,7 +385,7 @@
 			"name": "Markup Quote",
 			"scope": "markup.quote",
 			"settings": {
-				"foreground": "#7A3E9D"
+				"foreground": "#fffb17"
 			}
 		},
 		{
@@ -399,7 +402,7 @@
 				"markup.italic"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#33d3b8"
 			}
 		},
 		{
