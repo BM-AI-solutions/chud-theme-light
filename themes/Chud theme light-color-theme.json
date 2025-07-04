@@ -16,7 +16,7 @@
 		"sideBar.background": "#ffffff",
 		"sideBar.border": "#850f0f",
 		"sideBar.dropBackground": "#850f0f80",
-		"sideBar.foreground": "#ff0000",
+		"sideBar.foreground": "#000000",
 		"sideBarActivityBarTop.border": "#850f0f",
 		"minimapSlider.background": "#850f0f33",
 		"minimapSlider.activeBackground": "#850f0f80",
