@@ -171,7 +171,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#0400ff"
+				"foreground": "#00367c"
 			}
 		},
 		{
@@ -273,7 +273,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#b90000"
+				"foreground": "#810000"
 			}
 		},
 		{
