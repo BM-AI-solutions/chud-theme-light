@@ -15,9 +15,17 @@
 		"button.border": "#850f0f",
 		"sideBar.background": "#ffffff",
 		"sideBar.border": "#850f0f",
+		"sideBar.dropBackground": "#850f0f80",
+		"sideBar.foreground": "#ff0000",
+		"sideBarActivityBarTop.border": "#850f0f",
+		"minimapSlider.background": "#850f0f33",
+		"minimapSlider.activeBackground": "#850f0f80",
+		"minimapSlider.hoverBackground": "#850f0f66",
 		"activityBar.activeFocusBorder": "#b5200d",
 		"activityBar.activeBorder": "#850f0f",
 		"panel.border": "#850f0f",
+		"panel.background": "#ffffff",
+		"panel.dropBorder": "#000000",
 		"focusBorder": "#bd0000",
 		"menu.border": "#850f0f",
 		"actionBar.toggledBackground": "#00000000",
@@ -160,7 +168,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#27898c"
+				"foreground": "#698c27"
 			}
 		},
 		{
