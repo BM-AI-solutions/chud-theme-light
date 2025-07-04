@@ -103,7 +103,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"foreground": "#AB6526"
+				"foreground": "#263eab"
 			}
 		},
 		{
@@ -168,7 +168,7 @@
 			"name": "Strings",
 			"scope": "string",
 			"settings": {
-				"foreground": "#698c27"
+				"foreground": "#78278c"
 			}
 		},
 		{
